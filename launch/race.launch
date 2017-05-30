@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="race" type="race_node" name="launchRace" output="screen"> </node>
+
+</launch>
